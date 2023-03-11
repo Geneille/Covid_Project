@@ -1,9 +1,11 @@
 # Covid_Project
 Evaluating Covid19 cases and vaccinations with MySQL
 
-This project aim to perform some EDA for deaths and vaccinations related to Covid 19. The data source and SQL script is provided. In general 259,643 rows of data was imported from the csv file.
+The first part of this project aimed to perform some EDA for deaths and vaccinations related to Covid 19. The data source and SQL script is provided. In general 259,643 rows of data was imported from the csv file.
 
 Figure 1 below provides a snapshot of the likelihood of dying in a specific country.
+
+![Figure1_1](https://user-images.githubusercontent.com/92636438/224491153-32547947-1da4-408f-8e45-c19c5ad17a42.png)
 
 Figure 2 shows the countries with highest infection rate.
 
