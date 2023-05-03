@@ -14,6 +14,8 @@ The first part of this project aimed to perform some EDA for deaths and vaccinat
 
 The Figure below shows checking specific columns for null values. 
 
+![Screenshot 2023-04-20 141559](https://user-images.githubusercontent.com/92636438/235849260-c7ea90b7-27a1-4cec-8b60-643c6d5f3e1d.png)
+
 Preview of queries:
 
 * SQL query of the likelihood of dying in a specific country.
@@ -40,7 +42,13 @@ https://public.tableau.com/app/profile/geneille.greaves/viz/GLOBALCOVID-19CASESD
 
 Preview
 
+![Cases_deaths](https://user-images.githubusercontent.com/92636438/235849345-260dfd22-bd7e-426f-95fb-2b93d4b676be.jpg)
+
+
 Link to vaccination rollout dashboard:
 https://public.tableau.com/app/profile/geneille.greaves/viz/COVID-19VACCINATIONSTATISTICS/Dashboard22
 
 Preview
+
+![Screenshot (75)2](https://user-images.githubusercontent.com/92636438/235849923-81b7ba8a-f68c-4c41-853b-fb1027634785.png)
+
